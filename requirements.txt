@@ -1,0 +1,11 @@
+streamlit==1.32.0
+plotly==5.19.0
+tensorflow==2.15.0
+imutils==0.5.4
+opencv-python==4.9.0.80
+imageio==2.34.0
+pandas==2.1.4
+numpy==1.26.3
+matplotlib==3.8.2
+scikit-learn==1.4.0
+pillow==10.2.0
